@@ -2,7 +2,7 @@
 
 (A possible transmitter beacon circuit)
 
-These beacons where made with Arduino's with a AM transmitter shields attached to them. The beacons had a range of about 5 kilometers (I used more powerfull transmitters than shown here! I won't share that set up for legal reasons).
+These beacons where made with Arduino's with AM transmitter shields attached to them. The beacons had a range of about 5 kilometers (I used more powerfull transmitters than shown here! I won't share that set up for legal reasons).
 
 The beacons where programmed to send morse code transcript of some movie monologue and/or speeches. I made 4 beacons in total, speeches where taken from "The Great Dictator", "The People vs. Larry Flynt", "American History X" and "V for Vendetta". The movies where chosen at random from my DVD collection. (transcripts can be found in the [``bin/data/speeches``](https://github.com/DeRaafMedia/ProjectSpeechBeacons/tree/master/bin/data/speeches) directory).
 
